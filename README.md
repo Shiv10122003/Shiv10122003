@@ -7,8 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/shivamtripathi2" target="blank"><img src="https://img.shields.io/twitter/follow/shivamtripathi2?logo=twitter&style=for-the-badge" alt="shivamtripathi2" /></a> </p>
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNuM2F1OWpsOWY2YjR1MHB1MGpoOG1iOHNveHh2ZWtyNDR3MmhqaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9IgzoKnwFNmISR8I/giphy.gif">
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shiv10122003&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
+<img src="https://github-profile-trophy.vercel.app/?username=Shiv10122003&theme=onedark">
 - 🔭 I’m currently working on [calculator](na)
 
 - 🌱 I’m currently learning **java**
