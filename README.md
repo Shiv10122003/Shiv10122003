@@ -1,16 +1,11 @@
 ### Hi there 👋
 
-
-**Shiv10122003/Shiv10122003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently work
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working for open source
+- 🌱 I’m currently learning java
+- 👯 I’m looking to collaborate on any problems
+  
+- 💬 Ask me about anything freely
+- 📫 How to reach me: ...https://twitter.com/sivamtripathi2
+- 😄 Pronouns: ...commiter
+- ⚡ Fun fact: ...i love  to play cricket
 
