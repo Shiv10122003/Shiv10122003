@@ -6,6 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sivam22102002" alt="sivam22102002" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/shivamtripathi2" target="blank"><img src="https://img.shields.io/twitter/follow/shivamtripathi2?logo=twitter&style=for-the-badge" alt="shivamtripathi2" /></a> </p>
+<a href="<iframe src="https://giphy.com/embed/xT9IgzoKnwFNmISR8I" width="480" height="429" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/code-coding-seamless-xT9IgzoKnwFNmISR8I">via GIPHY</a></p>
 
 - 🔭 I’m currently working on [calculator](na)
 
