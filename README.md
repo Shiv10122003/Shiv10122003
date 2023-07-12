@@ -32,6 +32,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sivam22102002&show_icons=true&locale=en" alt="sivam22102002" /></p>
 
-<ol>loves to code and eat</ol>
-<ol> loves TO PLAY CICKET </ol>
+<em>loves to code and eat</em>
+<em>loves TO PLAY CRICKET </em>
 <img src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif?cid=ecf05e476b37y26j1ae6h3vb4xtusyb2r1k6l22es1fat5ta&ep=v1_gifs_search&rid=giphy.gif&ct=g">
